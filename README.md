@@ -22,8 +22,7 @@ Esta herramienta limpia automáticamente las carpetas temporales y de caché de 
 
 ## 🖥️ Uso para usuarios (sin conocimientos de programación)
 
-1. Descarga el ejecutable:  
-   [Descargar Borrar Cache](https://github.com/MrSCR98/eliminar-cache-windows/releases/download/Ejecutable/borrar-cache.exe)
+1. Descarga el ejecutable: [Descargar Borrar Cache](https://github.com/MrSCR98/eliminar-cache-windows/releases/download/Ejecutable/borrar-cache.exe)
 2. Haz doble clic en **borrar-cache.exe**.
 3. El programa limpiará automáticamente las carpetas temporales.
 4. Verás un mensaje al finalizar:
