@@ -1,0 +1,15 @@
+{
+  "name": "eliminar-cache-windows",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "scripts": {
+    "dev": "bun run borrar-cache.ts",
+    "test": "bun test",
+    "exe": "bun build borrar-cache.ts --compile --outfile exe/borrar-cache.exe --minify --bytecode"
+  }
+}
