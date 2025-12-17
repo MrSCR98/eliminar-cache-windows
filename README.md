@@ -67,17 +67,3 @@ Algunas ideas específicas para mejorar:
 - Simplificar la forma de añadir el icono al .exe, para que cualquier usuario pueda personalizarlo fácilmente.
 
 ¡Cualquier contribución, por pequeña que sea, ayuda a que esta herramienta sea más útil para todos!
-
----
-
-## 📝 Notas importantes
-
-- Ejecuta el programa como administrador, si la limpieza no funciona correctamente.
-- Durante la limpieza verás mensajes como:
-
-🧹 Limpiando: C:\Windows\Temp  
-📄 Archivo eliminado: C:\Windows\Temp\archivo.tmp  
-📂 Carpeta eliminada: C:\Windows\Temp\CarpetaVieja  
-⚠️ Omitido: C:\Windows\Temp\archivoEnUso.tmp  
-✔ Finalizado: C:\Windows\Temp
-
