@@ -45,7 +45,7 @@ Si quieres personalizar el icono del archivo .exe:
 3. Ejecuta el siguiente comando en la misma carpeta donde esté tu .exe e icono:
 
 ```
-.rcedit-x64.exe "borrar-cache.exe" --set-icon "favicon_64x64.ico" --set-file-version "1.0.0" --set-product-version "1.0.0"
+rcedit-x64.exe "borrar-cache.exe" --set-icon "favicon_64x64.ico" --set-file-version "1.0.0" --set-product-version "1.0.0"
 ```
 
 **Consejo:** Para que el icono se vea bien en todos los tamaños, asegúrate de usar un archivo .ICO que contenga varias resoluciones (16x16, 32x32, 64x64, etc.).
